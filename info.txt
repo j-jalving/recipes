@@ -1,0 +1,4 @@
+Database:	deb7876_recipes
+Host:		localhost
+Username:	deb7876_recipes
+Password:	C5J1S8nqwG
